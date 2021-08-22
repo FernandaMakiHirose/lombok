@@ -11,6 +11,6 @@
 ## Entendendo o código 
 `application.properties`: apresenta as configurações com o banco de dados. <br>
 `pom.xml`: apresenta as configurações do projeto, o Lombok foi adicionado aqui. <br>
-`model`: mapeamento da entidade.
-`controller`: métodos HTTP.
-`repository`: conexão com o banco de dados.
+`model`: mapeamento da entidade. <br>
+`controller`: métodos HTTP. <br>
+`repository`: conexão com o banco de dados. <br>
