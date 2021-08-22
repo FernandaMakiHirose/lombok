@@ -2,6 +2,9 @@
 - [Lombok](https://projectlombok.org/)
 - [Features](https://projectlombok.org/features/all)
 
+Para executar o projeto:
+>mvn spring-boot:run
+
 ## Spring Initializr
 - Maven
 - Java
