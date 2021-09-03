@@ -10,6 +10,9 @@ Para executar o projeto:
 - Java
 - Maven
 
+## Licença
+Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações.
+
 ## Spring Initializr
 - Maven
 - Java
